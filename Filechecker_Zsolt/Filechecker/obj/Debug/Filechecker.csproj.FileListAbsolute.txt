@@ -1,0 +1,13 @@
+F:\programming\Filechecker\Filechecker\obj\Debug\Filechecker.csprojAssemblyReference.cache
+F:\programming\Filechecker\Filechecker\bin\Debug\Filechecker.exe.config
+F:\programming\Filechecker\Filechecker\bin\Debug\Filechecker.exe
+F:\programming\Filechecker\Filechecker\bin\Debug\Filechecker.pdb
+F:\programming\Filechecker\Filechecker\obj\Debug\Filechecker.exe
+F:\programming\Filechecker\Filechecker\obj\Debug\Filechecker.pdb
+F:\programming\Filechecker_Zsolt\Filechecker\bin\Debug\Filechecker.exe.config
+F:\programming\Filechecker_Zsolt\Filechecker\bin\Debug\Filechecker.exe
+F:\programming\Filechecker_Zsolt\Filechecker\bin\Debug\Filechecker.pdb
+F:\programming\Filechecker_Zsolt\Filechecker\obj\Debug\Filechecker.csprojAssemblyReference.cache
+F:\programming\Filechecker_Zsolt\Filechecker\obj\Debug\Filechecker.csproj.CoreCompileInputs.cache
+F:\programming\Filechecker_Zsolt\Filechecker\obj\Debug\Filechecker.exe
+F:\programming\Filechecker_Zsolt\Filechecker\obj\Debug\Filechecker.pdb
