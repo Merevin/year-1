@@ -1,0 +1,12 @@
+F:\programming\euvote\EUVote\EUVote\obj\Debug\EUVote.csprojAssemblyReference.cache
+F:\programming\euvote\EUVote\EUVote\bin\Debug\EUVote.exe.config
+F:\programming\euvote\EUVote\EUVote\bin\Debug\EUVote.exe
+F:\programming\euvote\EUVote\EUVote\bin\Debug\EUVote.pdb
+F:\programming\euvote\EUVote\EUVote\obj\Debug\EUVote.exe
+F:\programming\euvote\EUVote\EUVote\obj\Debug\EUVote.pdb
+F:\programming\euvote\EUVote\EUVOTE-master\EUVote\bin\Debug\EUVote.exe.config
+F:\programming\euvote\EUVote\EUVOTE-master\EUVote\bin\Debug\EUVote.exe
+F:\programming\euvote\EUVote\EUVOTE-master\EUVote\bin\Debug\EUVote.pdb
+F:\programming\euvote\EUVote\EUVOTE-master\EUVote\obj\Debug\EUVote.csprojAssemblyReference.cache
+F:\programming\euvote\EUVote\EUVOTE-master\EUVote\obj\Debug\EUVote.exe
+F:\programming\euvote\EUVote\EUVOTE-master\EUVote\obj\Debug\EUVote.pdb

@@ -1,0 +1,5 @@
+F:\programming\euvote\EUVote\EUVote\bin\Release\EUVote.exe.config
+F:\programming\euvote\EUVote\EUVote\bin\Release\EUVote.exe
+F:\programming\euvote\EUVote\EUVote\bin\Release\EUVote.pdb
+F:\programming\euvote\EUVote\EUVote\obj\Release\EUVote.exe
+F:\programming\euvote\EUVote\EUVote\obj\Release\EUVote.pdb
